@@ -2,9 +2,9 @@ import java.util.*;
 class sample 
 {
 
-    public static void main(string[] args)
+    public static void main(String[] args)
     {
-        Arraylist L1=new Arraylist();
+        ArrayList L1=new ArrayList();
         L1.add(10);
         L1.add('a');
         L1.add('a');
