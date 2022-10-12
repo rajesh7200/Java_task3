@@ -1,6 +1,7 @@
+import java.util.*;
 class sample 
 {
-    public static void main(string[] args)
+    public static void main(String[] args)
     {
         Arraylist L1=new Arraylist();
         L1.add(10);
