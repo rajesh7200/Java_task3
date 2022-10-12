@@ -2,7 +2,7 @@ import java.util.*;
 class sample 
 {
 
-    public static void main(string[] args)
+    public static void main(String[] args)
     {
         LinkedHashSet L1=new LinkedHashSet();
         L1.add(10);
