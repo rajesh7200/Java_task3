@@ -2,7 +2,7 @@ import java.util.*;
 class sample 
 {
 
-    public static void main(string[] args)
+    public static void main(String[] args)
     {
         HashSet L1=new HashSet();
         L1.add(10);
